@@ -9,7 +9,7 @@
 	<body>
 		<hr/>
 		   <nav class="navbar navbar-expand-lg navbar-light bg-faded">
-		        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+		        <div class="collapse navbar-collapse justify-content-center" id="navbarNavAltMarkup">
 		        	<div class="navbar-nav">
 		              <a class="nav-item nav-link active" href="#">Accueil<span class="sr-only">(current)</span></a>
 		              <a class="nav-item nav-link" href="#">Territoire</a>
@@ -19,10 +19,10 @@
 		        </div>
 		   </nav>
 		<hr id="hr2">
-		<div class="container" style="border:1px solid #FDFD96;">
+		<div class="container rounded" style="border:1px solid #FDFD96;">
 			<div class="row">
 				<div class="col-md-12">
-				<p>Notre collectif vous invite à nous faire part de vos besoins et vos envies. Nous sommes tous habitant de la commune et voulons imaginer l’avenir de Cucq Trépied Stella. Agir ensemble sera plus efficace et constructif pour améliorer notre cadre de vie. Partageons ensemble nos idées.</p>
+				<p class="text-center">Notre collectif vous invite à nous faire part de vos besoins et vos envies.<br> Nous sommes tous habitant de la commune et voulons imaginer l’avenir de Cucq Trépied Stella.<br> Agir ensemble sera plus efficace et constructif pour améliorer notre cadre de vie.<br> Partageons ensemble nos idées.</p>
 				</div>
 			</div> 
 		</div>
