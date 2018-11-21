@@ -15,7 +15,6 @@
 			<div class="row">
 				<div class="col-md-4 container text-center" style="border:1px solid #FDFD96;">
 					<h2>CTS</h2>
-					<h3>Aménagement Territoire</h3>
 					<p>			
 					    <button class="btn btn-primary btn-block" type="button" id="amenagement">Aménagement de territoire</button>		
 					    <button class="btn btn-primary btn-block" type="button" id="probleme">Problème de commune</button>	
@@ -26,12 +25,12 @@
 					</button>
 					</p>
 					<div class="collapse" id="collapseExample">				  
-					    <button class="btn btn-primary" type="button" id="scolaire">Scolaire</button><br/>
-						<button class="btn btn-primary" type="button" id="quartier">Quartier</button><br/>  
-					    <button class="btn btn-primary" type="button" id="sportive">Sportive</button><br/>	
+					    <button class="btn btn-primary custom" type="button" id="scolaire">Scolaire</button><br/>
+						<button class="btn btn-primary custom" type="button" id="quartier">Quartier</button><br/>  
+					    <button class="btn btn-primary custom" type="button" id="sportive">Sportive</button><br/>	
 					</div>
 				</div>
-				<div class="col-md-8">
+				<div class="col-md-8 container" style="border:1px solid #FDFD96;">
 					<h2>Test</h2>
 					<div id="div1"><h2>Rien</h2></div>		
 				</div>				
