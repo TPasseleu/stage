@@ -1,0 +1,11 @@
+body{
+	background-color: grey;
+}
+
+br{
+	margin-bottom: 1em;
+}
+
+.custom{
+    width: 20em !important;
+}
