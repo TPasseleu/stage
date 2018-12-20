@@ -1,5 +1,21 @@
+<style>
+    .fab fa-facebook-square{
+       align-content: flex-end;
+    }
+    .log-rs{
+        display: flex;
+        justify-content: space-between;
+    }
+    nav-link{
+        color: yellow;
+    }
+</style>
+
+
+
+
 <header>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <a class="navbar-brand col" href="../index.php">Le triangle citoyen</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -7,24 +23,29 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav d-flex justify-content-center">
                 <li class="nav-item text-center mx-2">
-                    <a class="nav-link" href="../index.php">Accueil<span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="./index.php" style="color: yellow">Accueil<span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item text-center mx-2">
-                    <a class="nav-link" href="../map.php">Map</a>
+                    <a class="nav-link" href="./blog.php"  style="color: yellow">Actualités</a>
                 </li>
                 <li class="nav-item text-center mx-2">
-                    <a class="nav-link" href="../blog.php">Blog</a>
+                    <a class="nav-link" href="./map.php" style="color: yellow">Vie communale</a>
                 </li>
                 <li class="nav-item text-center mx-2">
-                    <a class="nav-link" href="">Territoire</a>
+                    <a class="nav-link" href="./communes.php" style="color: yellow">Histoires</a>
                 </li>
                 <li class="nav-item text-center mx-2">
-                    <a class="nav-link" href="../communes.php">Nos Communes</a>
-                </li>
-                <li class="nav-item text-center mx-2">
-                    <a class="nav-link" href="../contact.php">Contact</a>
+                    <a class="nav-link" href="./contact.php"style="color: yellow">Contact</a>
                 </li>
             </ul>
+
+        </div>
+        <div class="log-rs">
+            <a href="#"><i class="fab fa-facebook-square"></i></a>
+        </div>
+
+        <div class="log-rs">
+            <a href="#"><i class="fab fa-instagram"></i></a>
         </div>
     </nav>
 

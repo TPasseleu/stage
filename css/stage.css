@@ -1,11 +1,14 @@
 body {
-    background-color: #efefef;
+    background-color: #ffffff;
 }
-.navbar{
+
+.navbar {
     position: fixed;
     top: 0;
     width: 100%;
+    z-index: 10000;
 }
+
 .nav-fix {
     height: 70px;
 }
@@ -90,14 +93,15 @@ main {
 }
 
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 .gallery-cell {
-    height: 500px;
+    height: 200px;
 }
+
 .gallery-cell img {
-    height: 500px;
+    height: 200px;
 }
 
 .home-jumb {
@@ -110,4 +114,8 @@ main {
 
 .communes-jumb hr {
     border-top: 1px solid rgb(116, 106, 61);
+}
+
+.fab fa-facebook-square {
+    height: 5rem;
 }
