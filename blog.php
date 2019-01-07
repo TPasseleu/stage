@@ -12,6 +12,10 @@ include './include/navbar.php';
         <p class="commentaire">Poster vos commentaires ici</p>
         <div class="fb-comments" data-href="http://127.0.0.1:49317/presentationex.html" data-width="500" data-numposts="5"></div>
 
+        
+        
+        
+        
     </main>
 
 

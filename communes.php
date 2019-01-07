@@ -34,7 +34,7 @@ include './include/navbar.php';
                 A présent elle possède 6 fois sa population annuelle pendant la période estivale</p><br>
             <p>A ELLE TROIS CUCQ TREPIED STELLA, REPRESENTENT UNE CHANCE POUR TOUS,PAR SA LOCALISATION,SON HISTOIRE.
 
-                3 ENVIRONNEMENTS 3 NOMS QUI N'EN FONT QU' UN, CUCQ..
+                3 ENVIRONNEMENTS 3 NOMS QUI N'EN FONT QU' UN, CUCQ.
 
             </p>
         </div>
