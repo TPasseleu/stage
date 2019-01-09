@@ -63,7 +63,8 @@ main {
 }
 
 .fb-comments {
-    margin-left: 3rem;
+    display: block;
+    margin-left: 15rem;
 }
 
 .titresite col-4:hover {
@@ -88,9 +89,7 @@ main {
 }
 
 /* Add some padding inside the card container */
-.container {
-    padding: 2px 16px;
-}
+
 
 * {
     box-sizing: border-box;
@@ -118,4 +117,7 @@ main {
 
 .fab fa-facebook-square {
     height: 5rem;
+}
+h3{
+    text-align: center;
 }
