@@ -6,7 +6,7 @@ include './include/navbar.php';
 <link rel="stylesheet" href="css/stage.css">
 <div class="home-jumb jumbotron mt-5">
     <h1 class="display-4">Un nouveau défi pour Cucq, Trépied, Stella.</h1>
-    <p class="lead">Notre collectif « le triangle citoyen » vous invite à nous faire part de vos besoins et vos envies. Nous sommes tous habitant de la commune et voulons imaginer l’avenir de Cucq, Trépied, Stella.</p>
+    <p class="lead">Notre collectif « le triangle citoyen » vous invite à nous faire part de vos besoins et vos envies. Nous sommes tous habitants de la commune et voulons imaginer l’avenir de Cucq, Trépied, Stella.</p>
 </div>
 
 
