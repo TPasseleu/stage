@@ -4,7 +4,7 @@ include './include/navbar.php';
 ?>
 
     <div class="page">
-        <p>Le lien vers notre page <a href="#">Facebook</a></p>
+        <p>Le lien vers notre page <a target="_blank" href="https://www.facebook.com/GTN-1585686084872136/">Facebook</a></p>
     </div>
     <main role="main" class="container">
         <br>
