@@ -17,6 +17,7 @@ crossorigin=""></script>
     height: 50em; 
     border-right: 2px darkgoldenrod solid;
     border-top: 2px darkgoldenrod solid;
+    border-bottom: 2px darkgoldenrod solid;
 }
 @media only screen and (max-width: 768px)
 {
@@ -33,6 +34,7 @@ crossorigin=""></script>
 }
 .titre_annu{
     text-align : center;
+    width: 50rem;
 }
 main_annu   {
     display: grid;
@@ -42,9 +44,14 @@ ul{
     grid-column: 1;
     grid-row: 1;
 }
+    ul p{
+        text-align: center;
+        font-weight: bold; 
+    }
 li{
     list-style-type : none;
     text-align: center;
+    
 }
 ol{
     grid-column: 2;
@@ -72,20 +79,91 @@ L.marker([50.487619, 1.622844]).addTo(map)
 </script>
 
     <div class="main_annu">
-        <h1 class="titre_annu">Les différentes Associations Cucquoises</h1>
+        <h1 class="titre_annu">LES DIFFÉRENTES ASSOCIATIONS DE
+                
+                 CUCQ . TRÉPIED . STELLA PLAGE </h1>
         <div class="annu_asso_sport">
-            <ul> <p> Association sportive de Cucq</p>
-                <li>Basket</li>
-                <li>Omnisports</li>
-                <li>Musculation</li>
-                <li>Football</li>
-                <li>Karaté</li>
-                <li>Danse</li>
-                <li>le parc soleil</li>
+            <ul>
+
+
+<p>ASSOCIATION OMNISPORTS DE CUCQ</p>
+
+ 
+
+<li>AS . CUCQ BASKET : Président Monsieur LEBLOND Olivier.</li> 
+
+<li>AS . CUCQ COLOMBOPHILIE : Président Monsieur MARGUERITTE JOËL.</li>
+
+<li>AS . CUCQ CULTURISME : Président Monsieur DELITTE Jérémy.</li>
+
+<li>AS . CUCQ CYCLO TOURISME : Président Monsieur GUYOT Jean Marie.</li>
+
+<li>AS . CUCQ FOOTBALL : Président Monsieur GOBERT Fabrice.</li>
+
+<li>AS . CUCQ GYMNASTIQUE : Présidente GUILLEMANT Daphné.</li>
+
+<li>AS . CUCQ LANCER STELLIEN : Président Monsieur NUTTENS Marcel.</li>
+
+<li>AS . CUCQ PÉTANQUE : Président Monsieur GUILBERT Jérôme.</li>
+
+<li>AS  . CUCQ QUILLES : Président Monsieur DUCROCQ Roland.</li>
+
+<li>AS . CUCQ SPORT CANIN : Président Monsieur DUMUR Marion.</li>
+
+<li>AS . CUCQ TENNIS : Président Monsieur LIENARD Claude.</li>
+
+<li>AS . CUCQ TENNIS DE TABLE : Président Monsieur LETENDART Alain.</li> 
+
+<li>AS . CUCQ TIR A  L ' ARC : Président Monsieur BRIOIS Stéphane.</li>
+
+ <li>CLUB-NAUTIQUE STELLIEN : Président Monsieur BERNARD Jacques.</li>
+
+<li>FOKSADANCE : Madame FERRAND Mylène.</li> 
+
+<li>JKA KARATÉ CÔTE D'OPALE: Monsieur FOURNIER Dany.</li>
+
+<li>BILLARD CLUB DE CUCQ : Monsieur LEBECQ Jean Pierre.</li> 
+
+<li>OPALE MARATHON VTT : Monsieur MARTEL Sébastien.</li>
+
             </ul>
-            <ol>
-            <li>foot</li>
-            </ol>
+
+<ul><p>ASSOCIATIONS DE QUARTIERS</p>
+    
+     
+    
+    <li>ASSOCIATION " LE PARC SOLEIL " : Présidente Madame BIGOT Catherine.</li>
+    
+    <li>ASSOCIATION " RANDY " : Président Monsieur FLAHAUT René.</li>
+    
+    <li>ASSOCIATION " LES TULIPES " : Présidente Madame</li>
+    
+     </ul>
+
+<ul> <p>ASSOCIATIONS DIVERS</p>
+
+ 
+
+<li>ASSOCIATION RENCONTRE ET LOISIRS : Président Monsieur BOMY Didier.</li>
+
+<li>ASSOCIATION ÉVASION - PARTAGE : Président Monsieur SERGENT Albert.</li>
+
+<li>ASSOCIATION DE L'OFFICE DU TOURISME : Président Monsieur BASTIEN Jean Luc.</li>
+
+<li>ASSOCIATION DES ANCIENS COMBATTANT : Président Monsieur HABERT Roger.</li>
+
+<li>ASSOCIATION A.F.N  : Président Monsieur CARPENTIER Georges.</li>
+
+<li>ASSOCIATION CHASSE DE CUCQ : Président Monsieur DUSANNIER Christophe.</li> 
+
+<li>ASSOCIATION STELLA 2020 : Président Monsieur KOVACS André.</li>
+
+<li>L 'A.S.S.A.D EN OPALE SUD : Président Monsieur DUBUSSE.</li>
+
+<li>SOCIÉTÉ DES CHASSEURS DE STELLA : Président Monsieur SAMIERS Gérard.</li>
+
+<li>SYNDICAT DE DESSÈCHEMENT : Président Monsieur DUSSANIER François.</li>
+            </ul>
 
         </div>
     </div>
