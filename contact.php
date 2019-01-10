@@ -17,8 +17,8 @@ include './include/navbar.php';
             <img class="card-img-top" src="img/deharbe.jpg" alt="Card image cap">
             <div class="card-body">
                 <h4 class="card-title">Christelle Deharbe</h4>
-                <h5 class="card-title">Dirigente de l'association</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <h5 class="card-title">Présidente du GTNSM</h5>
+                <p class="card-text"></p>
                 <a href="mailto:letrianglecitoyen@gmail.com">letrianglecitoyen@gmail.com</a>
             </div>
         </div>
@@ -26,7 +26,7 @@ include './include/navbar.php';
             <img class="card-img-top" src="img/Catherine.JPG" alt="Card image cap">
             <div class="card-body">
                 <h4 class="card-title">Catherine Bigot</h4>
-                <h5 class="card-title">Dirigente de l'association</h5>
+                <h5 class="card-title"></h5>
                 <p class="card-text">Présidente de l'association de quartier " Le Parc Soleil" Trépied Cucq.</p>
                 <a href="mailto:letrianglecitoyen@gmail.com">letrianglecitoyen@gmail.com</a>
             </div>
@@ -35,7 +35,7 @@ include './include/navbar.php';
             <img class="card-img-top" src="img/unnamed.jpg" alt="Card image cap">
             <div class="card-body">
                 <h4 class="card-title">Bruno Semain</h4>
-                <h5 class="card-title">Dirigent de l'association</h5>
+                <h5 class="card-title"></h5>
                 <p class="card-text">Tresorier du GTNSM</p>
                 <a href="mailto:letrianglecitoyen@gmail.com">letrianglecitoyen@gmail.com</a>
             </div>
@@ -43,9 +43,9 @@ include './include/navbar.php';
         <div class="card m-3" style="width: 22rem;">
             <img class="card-img-top" src="https://storage.googleapis.com/chydlx/codepen/blog-cards/image-2.jpg" alt="Card image cap">
             <div class="card-body">
-                <h4 class="card-title">Prénom Nom</h4>
-                <h5 class="card-title">Rôle</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <h4 class="card-title">Jérémy Carin</h4>
+                <h5 class="card-title">Ostéopathe Cucq</h5>
+                <p class="card-text"></p>
                 <a href="mailto:letrianglecitoyen@gmail.com">letrianglecitoyen@gmail.com</a>
             </div>
         </div>
