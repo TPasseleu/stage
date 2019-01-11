@@ -36,12 +36,12 @@ include './include/navbar.php';
             <div class="card-body">
                 <h4 class="card-title">Bruno Semain</h4>
                 <h5 class="card-title"></h5>
-                <p class="card-text">Tresorier du GTNSM</p>
+                <p class="card-text">Trésorier du GTNSM</p>
                 <a href="mailto:letrianglecitoyen@gmail.com">letrianglecitoyen@gmail.com</a>
             </div>
         </div>
         <div class="card m-3" style="width: 22rem;">
-            <img class="card-img-top" src="https://storage.googleapis.com/chydlx/codepen/blog-cards/image-2.jpg" alt="Card image cap">
+            <img class="card-img-top" src="img/J%C3%A9r%C3%A9my%20Carin.jpg" alt="Card image cap">
             <div class="card-body">
                 <h4 class="card-title">Jérémy Carin</h4>
                 <h5 class="card-title">Ostéopathe Cucq</h5>
