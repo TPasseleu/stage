@@ -32,14 +32,15 @@
                     <a class="nav-link" href="./map.php" style="color: yellow">Vie communale</a>
                 </li>
                 <li class="nav-item text-center mx-2">
+                    <a class="nav-link" href="./agenda.php"style="color: yellow">Agenda</a>
+                </li>
+                <li class="nav-item text-center mx-2">
                     <a class="nav-link" href="./communes.php" style="color: yellow">Histoires</a>
                 </li>
                 <li class="nav-item text-center mx-2">
                     <a class="nav-link" href="./contact.php"style="color: yellow">Contact</a>
                 </li>
-                <li class="nav-item text-center mx-2">
-                    <a class="nav-link" href="./agenda.php"style="color: yellow">Agenda</a>
-                </li>
+                
             </ul>
 
         </div>

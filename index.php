@@ -16,7 +16,7 @@ include './include/navbar.php';
     <div class="gallery-cell"><img src="./img/img3.jpg" alt="Avatar"></div>
     <div class="gallery-cell"><img src="./img/Cucq_40675_digue-de-stella-au-coucher-du-soleil.jpg" alt="Avatar"></div>
     <div class="gallery-cell"><img src="./img/images%20(4).jpg" alt="Avatar"></div>
-    <div class="gallery-cell"><img src="./img/img3.jpg" alt="Avatar"></div>
+    <div class="gallery-cell"><img src="./img/cucq.jpg" alt="Avatar"></div>
 </div>
 
 
