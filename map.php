@@ -57,6 +57,12 @@ ol{
     grid-column: 2;
     grid-row: 1;
 }
+    .mairie{
+        text-align: center;
+    }
+    .mairie2{
+        margin-top: 10px;
+    }
 </style>
 <body>
 <div class="page_annu">
@@ -79,6 +85,12 @@ L.marker([50.487619, 1.622844]).addTo(map)
 </script>
 
     <div class="main_annu">
+       <h1 class="mairie">Mairie</h1>
+<li class="mairie2">Mairie de cucq-avenue des sports-tel:0321943666</li>
+      <li class="mairie2">Mairie de cucq-avenue des sports-tel:0321943666</li>
+       
+       
+       
         <h1 class="titre_annu">LES DIFFÉRENTES ASSOCIATIONS DE
                 
                  CUCQ . TRÉPIED . STELLA PLAGE </h1>
