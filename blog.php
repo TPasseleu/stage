@@ -23,6 +23,9 @@ include './include/navbar.php';
     article p{
         text-align: justify;
     }
+    .plus{
+        text-align: center;
+    }
 </style>
     <div class="page">
         
@@ -66,6 +69,10 @@ include './include/navbar.php';
     
     Comme c’est ballot alors que notre commune  compte</p> </article>
         <br>
+        <p class="plus">ajout</p>
+        
+        
+        
        <div class="comment">
              <p>Le lien vers notre page <a target="_blank" href="https://www.facebook.com/groups/2215607832062406/">Facebook</a></p>
             <p class="commentaire">Poster vos commentaires ici</p>

@@ -3,7 +3,9 @@ include './include/header.php';
 include './include/navbar.php';
 ?>
 
+<style>
 
+</style>
 
 <div class="container">
     <div class="shadow rounded communes-jumb jumbotron jumbotron-fluid">
