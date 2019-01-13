@@ -23,7 +23,7 @@ include './include/navbar.php';
             </div>
         </div>
         <div class="card m-3" style="width: 22rem;">
-            <img class="card-img-top" src="img/Catherine.JPG" alt="Card image cap">
+            <img class="card-img-top" src="img/Catheirne%202.JPG" alt="Card image cap">
             <div class="card-body">
                 <h4 class="card-title">Catherine Bigot</h4>
                 <h5 class="card-title">Présidente de l'association de quartier " Le Parc Soleil" Trépied Cucq.</h5>
