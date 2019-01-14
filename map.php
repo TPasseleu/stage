@@ -85,12 +85,25 @@ L.marker([50.487619, 1.622844]).addTo(map)
 </script>
 
     <div class="main_annu">
-       <h1 class="mairie">Mairie</h1>
-<li class="mairie2">Mairie de cucq-avenue des sports-tel:0321943666</li>
-      <li class="mairie2">Mairie de cucq-avenue des sports-tel:0321943666</li>
-       
-       
-       
+                 <h1 class="mairie2">Espace Administratif</h1>
+      <li class="mairie2">Mairie de cucq-avenue des sports - tel: 03.21.94.36.66</li>
+      <li class="mairie2">Bureau d'Information Touristique 1397 Place Jean Sapin Stella Plage - tél: 03.21.09.04.32</li>
+      <li class="mairie2">Bibliothèque Municipale Place Ancienne Mairie Cucq - tél: 09.67.32.34.28</li>
+      <li class="mairie2">Poste de Cucq 1650 Avenue de la Libération Cucq - tél: 36.31</li>
+      <li class="mairie2">Poste de Stella Plage 1397 Place Jean Sapin Stella Plage Stella Plage - tél: 36.31</li> 
+      <li class="mairie2">Crèche Parental L'Oiseau Bleu 489 Chemin du Chat Noir Trépied - tél: 03.21.09.54.12</li> 
+      <li class="mairie2">Ecole Maternelle " Le Chat Noir " Trépied - tél: 03.21.94.71.00</li>
+      <li class="mairie2">Ecole Maternelle de Cucq " La Souris Verte " - tél: 09.67.11.39.13</li> 
+      <li class="mairie2">Ecole Primaire de Cucq 17 rue des Ecoles - tél: 09.67.08.71.01</li>  
+      <li class="mairie2">Ecole Primaire de Trépied " Jean Levisse " - tél: 03.21.94.70.63</li>   
+          
+           
+            
+             
+              
+               
+                
+                  
         <h1 class="titre_annu">LES DIFFÉRENTES ASSOCIATIONS DE
                 
                  CUCQ . TRÉPIED . STELLA PLAGE </h1>
