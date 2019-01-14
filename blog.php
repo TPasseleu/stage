@@ -69,7 +69,7 @@ include './include/navbar.php';
     
     Comme c’est ballot alors que notre commune  compte</p> </article>
         <br>
-        <p class="plus">ajout</p>
+        <p class="plus">Le Triangle Citoyen  vous souhaite une bonne année 2019</p>
         
         
         
