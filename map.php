@@ -61,6 +61,7 @@ ol{
         text-align: center;
     }
     .mairie2{
+        text-align: center;
         margin-top: 10px;
     }
 </style>
@@ -85,7 +86,7 @@ L.marker([50.487619, 1.622844]).addTo(map)
 </script>
 
     <div class="main_annu">
-                 <h1 class="mairie2">Espace Administratif</h1>
+                 <h2 class="mairie2">Espace Administratif</h2>
       <li class="mairie2">Mairie de cucq-avenue des sports - tel: 03.21.94.36.66</li>
       <li class="mairie2">Bureau d'Information Touristique 1397 Place Jean Sapin Stella Plage - tél: 03.21.09.04.32</li>
       <li class="mairie2">Bibliothèque Municipale Place Ancienne Mairie Cucq - tél: 09.67.32.34.28</li>
@@ -104,9 +105,9 @@ L.marker([50.487619, 1.622844]).addTo(map)
                
                 
                   
-        <h1 class="titre_annu">LES DIFFÉRENTES ASSOCIATIONS DE
+        <h2 class="titre_annu">LES DIFFÉRENTES ASSOCIATIONS DE
                 
-                 CUCQ . TRÉPIED . STELLA PLAGE </h1>
+                 CUCQ . TRÉPIED . STELLA PLAGE </h2>
         <div class="annu_asso_sport">
             <ul>
 

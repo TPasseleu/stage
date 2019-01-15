@@ -7,7 +7,7 @@
         justify-content: space-between;
     }
     nav-link{
-        color: yellow;
+        color: goldenrod;
     }
 </style>
 
@@ -23,22 +23,22 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav d-flex justify-content-center">
                 <li class="nav-item text-center mx-2">
-                    <a class="nav-link" href="./index.php" style="color: yellow">Accueil<span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="./index.php" style="color: gold">Accueil<span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item text-center mx-2">
-                    <a class="nav-link" href="./blog.php"  style="color: yellow">Blog</a>
+                    <a class="nav-link" href="./blog.php"  style="color: gold">Blog</a>
                 </li>
                 <li class="nav-item text-center mx-2">
-                    <a class="nav-link" href="./map.php" style="color: yellow">Vie communale</a>
+                    <a class="nav-link" href="./map.php" style="color: gold">Vie communale</a>
                 </li>
                 <li class="nav-item text-center mx-2">
-                    <a class="nav-link" href="./agenda.php"style="color: yellow">Agenda</a>
+                    <a class="nav-link" href="./agenda.php"style="color: gold">Agenda</a>
                 </li>
                 <li class="nav-item text-center mx-2">
-                    <a class="nav-link" href="./communes.php" style="color: yellow">Histoires</a>
+                    <a class="nav-link" href="./communes.php" style="color: gold">Histoires</a>
                 </li>
                 <li class="nav-item text-center mx-2">
-                    <a class="nav-link" href="./contact.php"style="color: yellow">Contact</a>
+                    <a class="nav-link" href="./contact.php"style="color: gold">Contact</a>
                 </li>
                 
             </ul>

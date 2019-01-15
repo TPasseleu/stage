@@ -1,7 +1,7 @@
 body {
-    background-color: #ffffff;
+    background-color: #ffebcd;
 }
-
+F
 .navbar {
     position: fixed;
     top: 0;
@@ -20,7 +20,8 @@ body {
 }
 
 .nav-link:hover {
-    color: yellow;
+    color: gold;
+    border-bottom: white 1px solid;
 }
 
 main {
@@ -60,11 +61,13 @@ main {
 .nav-link {
     display: flex;
     align-content: space-around;
+    transition: 0.5s;
 }
 
 .fb-comments {
-    display: block;
-    margin-left: 15rem;
+    position: relative;
+    margin-left: 5rem;
+    left: -5rem
 }
 
 .titresite col-4:hover {
