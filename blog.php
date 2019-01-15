@@ -23,6 +23,9 @@ include './include/navbar.php';
     article p{
         text-align: justify;
     }
+    .plus{
+        text-align: center;
+    }
 </style>
     <div class="page">
         
@@ -66,8 +69,12 @@ include './include/navbar.php';
     
     Comme c’est ballot alors que notre commune  compte</p> </article>
         <br>
+        <p class="plus">Le Triangle Citoyen  vous souhaite une bonne année 2019</p>
+        
+        
+        
        <div class="comment">
-             <p>Le lien vers notre page <a target="_blank" href="https://www.facebook.com/GTN-1585686084872136/">Facebook</a></p>
+             <p>Le lien vers notre page <a target="_blank" href="https://www.facebook.com/groups/2215607832062406/">Facebook</a></p>
             <p class="commentaire">Poster vos commentaires ici</p>
             <div class="fb-comments" data-href="http://127.0.0.1:49317/presentationex.html" data-width="500" data-numposts="5"></div>
         </div>

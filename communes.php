@@ -3,13 +3,15 @@ include './include/header.php';
 include './include/navbar.php';
 ?>
 
+<style>
 
+</style>
 
 <div class="container">
     <div class="shadow rounded communes-jumb jumbotron jumbotron-fluid">
         <div class="container">
-            <h1 class="display-3 text-center">Vie communale</h1>
-            <p class="lead text-center">Voici une courte présentation de nos communes.</p>
+            <h1 class="display-3 text-center">HISTOIRE</h1>
+            <p class="lead text-center">Voici une courte présentation de notre commune.</p>
 
             <hr>
             <h2 class="display-4 mb-3">Cucq</h2>
