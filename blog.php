@@ -82,7 +82,7 @@ include './include/navbar.php';
         
         
        <div class="comment">
-             <p>Le lien vers notre page <a target="_blank" href="https://www.facebook.com/groups/2215607832062406/">Facebook</a></p>
+             <p>Le lien vers notre page <a target="_blank" href="https://www.facebook.com/christelled62780/">Facebook</a></p>
             <p class="commentaire">Poster vos commentaires ici</p>
             <div class="fb-comments" data-href="http://127.0.0.1:49317/presentationex.html" data-width="500" data-numposts="5"></div>
         </div>

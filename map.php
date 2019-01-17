@@ -13,7 +13,8 @@ crossorigin=""></script>
 <link href='https://api.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.css' rel='stylesheet' />
 <style>
 #map{
-    width: 50%; 
+    position: fixed;
+    width: 45%; 
     height: 50em; 
     border-right: 2px darkgoldenrod solid;
     border-top: 2px darkgoldenrod solid;
@@ -30,19 +31,16 @@ crossorigin=""></script>
     }
 }
 .page_annu{
-    display: flex;
+    position: absolute;
+    right: 0;
 }
 .titre_annu{
     text-align : center;
     width: 50rem;
 }
 main_annu   {
-    display: grid;
-    grid-template-columns: 200px 400px;    
-}
-ul{
-    grid-column: 1;
-    grid-row: 1;
+    position: relative;
+    margin-right: 5rem;   
 }
     ul p{
         text-align: center;
@@ -66,7 +64,6 @@ ol{
     }
 </style>
 <body>
-<div class="page_annu">
     <div id='map' style='w'></div>
     <script>
     mapboxgl.accessToken = 'pk.eyJ1Ijoid2Fpc2h5IiwiYSI6ImNqcDJmcHdvcjA2NnAzd3BoNzJueHAxcDkifQ.5xzVN_hgzuLyc12kFLm0aA';
@@ -84,6 +81,8 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 L.marker([50.487619, 1.622844]).addTo(map)
 </script>
+
+<div class="page_annu">
 
     <div class="main_annu">
                  <h1 class="mairie2">Espace Administratif</h1>
@@ -104,8 +103,6 @@ L.marker([50.487619, 1.622844]).addTo(map)
               
                
                 
-                  
-        <h1 class="titre_annu">LES DIFFÉRENTES ASSOCIATIONS DE
                 
                   
         <h2 class="titre_annu">LES DIFFÉRENTES ASSOCIATIONS DE
@@ -195,7 +192,7 @@ L.marker([50.487619, 1.622844]).addTo(map)
             </ul>
 
         </div>
-    </div>
+    
 </div>
 <?php  
 include './include/footer.php';
