@@ -7,21 +7,30 @@ include './include/navbar.php';
         text-align: center;
     }
     article{
-        position: relative;
+        position: absolute;
         display: block;
         text-align: center;
         padding: 15px;
         background-color: antiquewhite;
         border-radius: 5px 5px 5px 5px;
         box-shadow: 5px 5px 15px black;
-        left: 15rem;
+        margin-right: 5rem;
+        margin-left: 5rem;
     }
     .comment {
+        position: relative;
+        left: -5rem;
     display: block;
-    margin-left: 20rem;
+    align-items: center;
+    margin-left: 5rem;
+    margin-right : 5rem;
 }
     article p{
+        position: relative;
         text-align: justify;
+    }
+    .comment p{
+        text-align: center;
     }
     .plus{
         text-align: center;
@@ -29,8 +38,7 @@ include './include/navbar.php';
 </style>
     <div class="page">
         
-    </div>
-    <main role="main" class="container">
+    
        <article><h3>Internet et TV 
            
                               La galère !</h3>
@@ -67,10 +75,10 @@ include './include/navbar.php';
     
     Pour les autres, eh bien tant pis !
     
-    Comme c’est ballot alors que notre commune  compte</p> </article>
+    Comme c’est ballot alors que notre commune  compte</p> 
         <br>
         <p class="plus">Le Triangle Citoyen  vous souhaite une bonne année 2019</p>
-        
+        <br>
         
         
        <div class="comment">
@@ -80,11 +88,11 @@ include './include/navbar.php';
         </div>
 
         
+        </article>
         
         
-        
-    </main>
-
+    
+    </div>
 
 
 

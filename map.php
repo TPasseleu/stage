@@ -61,6 +61,7 @@ ol{
         text-align: center;
     }
     .mairie2{
+        text-align: center;
         margin-top: 10px;
     }
 </style>
@@ -106,7 +107,10 @@ L.marker([50.487619, 1.622844]).addTo(map)
                   
         <h1 class="titre_annu">LES DIFFÉRENTES ASSOCIATIONS DE
                 
-                 CUCQ . TRÉPIED . STELLA PLAGE </h1>
+                  
+        <h2 class="titre_annu">LES DIFFÉRENTES ASSOCIATIONS DE
+                
+                 CUCQ . TRÉPIED . STELLA PLAGE </h2>
         <div class="annu_asso_sport">
             <ul>
 
