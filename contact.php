@@ -14,7 +14,7 @@ include './include/navbar.php';
     <h2 class="display-4 text-center">Notre organisation</h2>
     <div class="row d-flex justify-content-center">
         <div class="card m-3" style="width: 22rem;">
-            <img class="card-img-top" src="img/Christelle.jpg" alt="Card image cap">
+            <img class="card-img-top" src="./img/ImgWebChris-1159.jpg" alt="Card image cap">
             <div class="card-body">
                 <h4 class="card-title">Christelle Deharbe</h4>
                 <h5 class="card-title">Présidente du GTNSM</h5>
